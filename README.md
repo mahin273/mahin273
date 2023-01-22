@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mahin273
-- 👀 I’m interested in android open source project
-- 🌱 I’m currently learning making aosp rom
+- 👋 Hi, I’m Md Mahin Khan
+- 👀 I’m interested in Android and ios app development using Flutter & Dart,AOSP
+- 🌱 I’m currently learning Flutter & Dart,C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -Telegarm(@nibbles_apk)
+- 📫 How to reach me -Telegarm(@Mahinn1)
 <!---
 mahin273/mahin273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
