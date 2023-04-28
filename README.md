@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
--  I'm interested in **AOSP**
+- 😃I'm interested in **AOSP & Android Application Development**
 
 - 💬 Ask me about **Nothing**
 
