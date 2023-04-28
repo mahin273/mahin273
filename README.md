@@ -1,91 +1,75 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Project</title>
+	<title>My Animated README</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 	<style>
 		body {
 			font-family: Arial, sans-serif;
-			color: #333;
-			background-color: #f2f2f2;
+			color: #fff;
+			background-color: #24292e;
 			padding: 0;
 			margin: 0;
+			overflow: hidden;
 		}
 		.container {
 			max-width: 800px;
 			margin: 0 auto;
 			padding: 40px;
-			background-color: #fff;
-			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+			background-color: rgba(0, 0, 0, 0.5);
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 			border-radius: 5px;
+			animation: pulse 2s infinite;
 		}
 		h1 {
 			font-size: 48px;
 			font-weight: bold;
 			margin: 0 0 20px;
-			color: #333;
-		}
-		h2 {
-			font-size: 24px;
-			font-weight: bold;
-			margin: 0 0 10px;
-			color: #333;
+			color: #fff;
+			animation: slideInDown 1s;
 		}
 		p {
 			font-size: 16px;
 			line-height: 1.5;
 			margin: 0 0 20px;
-			color: #666;
+			color: #fff;
+			animation: fadeIn 2s;
 		}
-		a {
-			color: #0080ff;
-			text-decoration: none;
+		@keyframes pulse {
+			0% {
+				box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.5);
+			}
+			70% {
+				box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+			}
+			100% {
+				box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+			}
 		}
-		a:hover {
-			color: #0050ff;
-			text-decoration: underline;
+		@keyframes slideInDown {
+			from {
+				transform: translateY(-100%);
+			}
+			to {
+				transform: translateY(0%);
+			}
 		}
-		.icon {
-			display: inline-block;
-			margin-right: 10px;
-			font-size: 24px;
-			color: #333;
-			vertical-align: middle;
-		}
-		.icon i {
-			margin-right: 5px;
+		@keyframes fadeIn {
+			from {
+				opacity: 0;
+			}
+			to {
+				opacity: 1;
+			}
 		}
 	</style>
 </head>
 <body>
-	<div class="container">
-		<h1>My Project</h1>
-		<p>A brief description of my project goes here.</p>
-		<h2>Installation</h2>
-		<p>To install my project, follow these steps:</p>
-		<ol>
-			<li>Step 1</li>
-			<li>Step 2</li>
-			<li>Step 3</li>
-		</ol>
-		<h2>Usage</h2>
-		<p>Here's how to use my project:</p>
-		<code>example command or code snippet</code>
-		<h2>Contributing</h2>
-		<p>Contributions are welcome! Please follow these guidelines:</p>
-		<ul>
-			<li>Guideline 1</li>
-			<li>Guideline 2</li>
-			<li>Guideline 3</li>
-		</ul>
-		<h2>Contact</h2>
-		<p>If you have any questions or feedback, feel free to contact me:</p>
-		<ul>
-			<li><i class="icon fa fa-github"></i><a href="https://github.com/myusername">Github</a></li>
-			<li><i class="icon fa fa-envelope"></i><a href="mailto:myemail@example.com">Email</a></li>
-		</ul>
+	<div class="container animate__animated animate__fadeIn">
+		<h1>My Animated README</h1>
+		<p>Welcome to my GitHub profile! This is an example of an animated README.md created with HTML and CSS animations.</p>
 	</div>
 </body>
 </html>
