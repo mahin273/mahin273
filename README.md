@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **md.mahin.bd18@gmail.com**
 
-- ⚡ Fun fact **Nothing funny**
+- ⚡ Fun fact **Nothing funny.I'm a boring guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
