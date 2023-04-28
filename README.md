@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mahin Khan</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
+<h3 align="center">A Passionate Tech Learner from Bangladesh</h3>
 <div align="center">
 
 
