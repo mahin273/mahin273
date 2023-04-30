@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **Nothing funny.I'm a boring guy**
 
+<figure><embed src="https://wakatime.com/share/@38fbbd7c-03cc-4ce9-b8cc-81563a575d8d/46e24e76-d465-4126-acc2-2970e813392a.svg"></embed></figure>
+
 
 <h3 align="centre">Connect with me:</h3>
 <p align="centre">
