@@ -1,5 +1,5 @@
 # 💫 About Me:
->I"m a Passoniate Tech Learner From Bangladesh<br>🔭 I’m currently working on Flutter<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Flutter & Java<br>💬 Ask me about related To Java<br>⚡ Fun fact-Nothing
+🧔🏻I"m a Passoniate Tech Learner From Bangladesh<br>🔭 I’m currently working on Flutter<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Flutter & Java<br>💬 Ask me about related To Java & Flutter<br>⚡ Fun fact-Nothing
 
 
 ## 🌐 Socials:
