@@ -50,7 +50,6 @@ Backend-focused video streaming platform.
 ### 04. Find Me
 
 - Portfolio: [mahin0.vercel.app](https://mahin0.vercel.app/)
-- GitHub: [@mahin273](https://github.com/mahin273)
 - Location: Dhaka, Bangladesh
 
 ---
